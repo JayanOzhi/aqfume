@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aqfume.git/static/css/main.6322a2d0.chunk.css",
+    "main.js": "/aqfume.git/static/js/main.fd094d2d.chunk.js",
+    "main.js.map": "/aqfume.git/static/js/main.fd094d2d.chunk.js.map",
+    "runtime-main.js": "/aqfume.git/static/js/runtime-main.8857fe4c.js",
+    "runtime-main.js.map": "/aqfume.git/static/js/runtime-main.8857fe4c.js.map",
+    "static/js/2.2884e0f7.chunk.js": "/aqfume.git/static/js/2.2884e0f7.chunk.js",
+    "static/js/2.2884e0f7.chunk.js.map": "/aqfume.git/static/js/2.2884e0f7.chunk.js.map",
+    "index.html": "/aqfume.git/index.html",
+    "precache-manifest.6e9f6f8c30d9982ba6b0f97cbd36ee03.js": "/aqfume.git/precache-manifest.6e9f6f8c30d9982ba6b0f97cbd36ee03.js",
+    "service-worker.js": "/aqfume.git/service-worker.js",
+    "static/css/main.6322a2d0.chunk.css.map": "/aqfume.git/static/css/main.6322a2d0.chunk.css.map",
+    "static/js/2.2884e0f7.chunk.js.LICENSE.txt": "/aqfume.git/static/js/2.2884e0f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8857fe4c.js",
+    "static/js/2.2884e0f7.chunk.js",
+    "static/css/main.6322a2d0.chunk.css",
+    "static/js/main.fd094d2d.chunk.js"
+  ]
+}
